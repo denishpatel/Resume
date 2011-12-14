@@ -37,12 +37,12 @@ Bachelors of Engineering in Information Technology, Gujarat, India (2000-2004)
 
 ## Systems Proficiency
 
-RDBMS: Oracle® 10g, 9i, 8i, 7i, Postgres 8.3,9.2, MySQL 5.0
-NOSQL: Riak , MongoDB
-Oracle® Tools: OEM, RMAN, PL/SQL, SQL*Loader, Export/Import, Data Guard
-Designer, Dev Tools: Quest TOAD, SQL Navigator, SQL developer, PVCS/SVN
-Operating Systems: Solaris, Linux, HP-UX, AIX, Windows 2003/2000/NT
-Languages: SQL, PL/SQL, PL/PGSQL, Shell scripting, Perl, Windows scripting
+ * RDBMS: Oracle® 10g, 9i, 8i, 7i, Postgres 8.3,9.2, MySQL 5.0
+ * NOSQL: Riak , MongoDB
+ * Oracle® Tools: OEM, RMAN, PL/SQL, SQL*Loader, Export/Import, Data Guard
+ * Designer, Dev Tools: Quest TOAD, SQL Navigator, SQL developer, PVCS/SVN
+ * Operating Systems: Solaris, Linux, HP-UX, AIX, Windows 2003/2000/NT
+ * Languages: SQL, PL/SQL, PL/PGSQL, Shell scripting, Perl, Windows scripting
 
 ## Experience
 
