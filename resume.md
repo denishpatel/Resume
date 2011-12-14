@@ -11,9 +11,8 @@ Sr. Database Architect handling Oracle, PostgreSQL,MySQL, SQL Server and NoSQL d
 ## Professional Skills Summary
 
 ### Management Skills:
-• Full database design, creation, configuration, and tuning for Oracle, Postgres, and MySQL ,
-NoSQL Databases
-• Ability to do RCA for production incidences
+ * Full database design, creation, configuration, and tuning for Oracle, Postgres, and MySQL, NoSQL Databases
+ * Ability to do RCA for production incidences
 • Ability to do resource planning, coordinating internal and client staff
 • Ability to translate business requirements into technical objectives
 • Familiarity with current NoSQL based solutions and consequences to the businesses
