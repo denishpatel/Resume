@@ -37,7 +37,7 @@ Sr. Database Architect handling Oracle, PostgreSQL,MySQL, SQL Server and NoSQL d
 
 ## Systems Proficiency
 
- * RDBMS: Oracle® 10g, 9i, 8i, 7i, Postgres 8.3,9.2, MySQL 5.0
+ * RDBMS: Oracle® 11g, 10g, 9i, 8i, 7i, Postgres 9.X,8.X, MySQL 5.X, MS SQL server
  * NOSQL: Riak , MongoDB
  * Oracle® Tools: OEM, RMAN, PL/SQL, SQL*Loader, Export/Import, Data Guard
  * Designer, Dev Tools: Quest TOAD, SQL Navigator, SQL developer, PVCS/SVN
