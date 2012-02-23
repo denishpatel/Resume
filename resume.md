@@ -31,7 +31,7 @@ Sr. Database Architect handling Oracle, PostgreSQL,MySQL, SQL Server and NoSQL d
 
 ## Education
 
- * MBA in Business, Johns Hopkins University, Baltimore, MD (2008-2011)
+ * MBA, Johns Hopkins University, Baltimore, MD (2008-2011)
  * Post Graduate Diploma in Database Systems Engineering, Toronto, Canada (2005)
  * BS in Computer Science,Nirma Institure of Technology, Gujarat, Gujarat, India (2000-2004)
 
