@@ -1,7 +1,7 @@
 # Denish Patel 
 
  * <denish@omniti.com>
- * <http://denishjpatel.blogspot.com>
+ * http://www.pateldenish.com/
  * 240-529-4312
 
 ## Professional Summary
