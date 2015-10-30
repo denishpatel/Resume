@@ -1,119 +1,178 @@
 # Denish Patel 
+Sr. Database Engineer
 
  * <denish@omniti.com>
  * http://www.pateldenish.com/
  * 240-529-4312
 
-## Professional Summary
+Overview	Recognized as an SME, particularly in Big Data/Postgres; invited to speak at numerous conferences and summits. (see below) 
 
-Sr. Database Architect handling Oracle, PostgreSQL,MySQL, SQL Server and NoSQL databases in production as well development environments. Maintenance of databases includes performance tuning, backup and recovery, tuning SQL. An innovative worker, capable of thinking ‘out of the box’ rather than a traditional operational DBA, emphasis being more on long term solutions ratherthan day to day support. Setting best practices of computer science in real world.
+Manage large databases in heterogeneous environment. 
+- PostgreSQL, Oracle, MySQL, SQL Server
+- NoSQL (MongoDB, Hadoop, Riak, Cassandra, …) 
 
-## Professional Skills Summary
+Specialties: 
+ 
+•	Database technology selection and migration
+•	Managing teams in support of Heterogeneous Architecture
+•	Performance Monitoring and Tuning
+•	Proactive System Monitoring and Maintenance
+•	Big Data
+•	Backup and Recovery
+•	Security
+•	High Availability & Failover 
 
-### Management Skills:
- * Full database design, creation, configuration, and tuning for Oracle, Postgres, and MySQL, NoSQL Databases
- * Ability to do RCA for production incidences
- * Ability to do resource planning, coordinating internal and client staff
- * Ability to translate business requirements into technical objectives
- * Familiarity with current NoSQL based solutions and consequences to the businesses
- * Monitor customer satisfaction and negotiate contract extensions/renewals with existing clients
- * Available for 24 hour oncall support
- * Engage with technical groups and represent employer at technical conferences
+Skills & Expertise
+ 
+•	Database Administration
+•	Performance Tuning
+•	PostgreSQL
+•	MongoDB
+•	High Availability
+•	SQL Tuning
+•	Databases
+•	Oracle
+•	MySQL
+•	Perl
+•	Solaris
+•	Unix
+•	Security
+•	Shell Scripting
+•	Database Design
+•	VLDB
+•	Oracle DBA
+•	PostgreSQL DBA
+•	MySQL DBA 
 
-### Technical Skills:
+Experience
 
- * Database System Management on UNIX / Windows with OS Administration
- * Expertise in UNIX and Windows operating systems
- * Experience to setup Apache Web Server and Server Monitoring tools
- * Server load monitoring and tuning tools
- * Expertize of UFS, ZFS, VERITAS file systems
- * Worked in 24x7 production environment and provided on-call support
+WithMe, Las Vegas, NV	09/15 - Present
+Principal Database Engineer
 
-## Education
+WithMe™ is a start-up that focuses on three primary solutions for commerce, including WithMe Business, Financial and Retail. 
+Database Engineering 
+Data modeling 
+Migrations - MongoDB to Postgres 
+Monitoring
+Operations 
+DatabaseOps
 
- * MBA, Johns Hopkins University, Baltimore, MD (2008-2011)
- * Post Graduate Diploma in Database Systems Engineering, Toronto, Canada (2005)
- * BS in Computer Science,Nirma Institure of Technology, Gujarat, Gujarat, India (2000-2004)
+OmniTI, Fulton, MD	03/07 – 08/15
+Lead Database Architect – January, 2012 – August, 2015
+Sr. Database Architect - March, 2007 – December, 2011
 
-## Systems Proficiency
+•	Provided Database Administration, management and support of SQL systems such as PostgreSQL, MySQL, Oracle and NoSQL Systems such as Riak, MongoDB, Hadoop. 
+•	Designed, developed, deployed and maintained scalable database solutions using Open Source SQL/NoSQL technologies as part of multiple applications with large data sets 
+•	Installed, configured, monitored, tuned and optimized database technologies. Also upgraded/patched, benchmarked, performed troubleshooting and maintained
+•	Applied DevOps methodologies and collaborated with various teams to establish and refine requirements 
+•	Worked with engineering team members to determine the data needs of applications and optimize performance 
+•	Participated in 24x7 on-call rotation to support critical business applications running on SQL and NoSQL database systems 
+•	Was responsible for automation and configuration management using tools like Chef and Puppet
+•	Engaged in short and long-term capacity planning
+•	Designed and implemented backup and failover strategies for all databases.
+•	Set up High Availability, partitioning and security Solutions.
+•	Served as a Subject Matter Expert on database technologies
+•	Managed off-shore Postgres, Oracle & MySQL instances.
 
- * RDBMS: Oracle® 11g, 10g, 9i, 8i, 7i, Postgres 9.X,8.X, MySQL 5.X, MS SQL server
- * NOSQL: Riak , MongoDB
- * Oracle® Tools: OEM, RMAN, PL/SQL, SQL*Loader, Export/Import, Data Guard
- * Designer, Dev Tools: Quest TOAD, SQL Navigator, SQL developer, PVCS/SVN
- * Operating Systems: Solaris, Linux, HP-UX, AIX, Windows 2003/2000/NT
- * Languages: SQL, PL/SQL, PL/PGSQL, Shell scripting, Perl, Windows scripting
+Goldstone Technologies, Ltd.	06/06 – 02/07
+Sr. Database Administrator
 
-## Experience
+•	Designed and architected database solutions that were secure, highly available, scalable and efficient 
+•	Installed, created and applied patches for Oracle 10g, 9i, 8i, 7i on Unix (AIX, Sun Solaris), VMS and Windows OS
+•	Conducted technical evaluations of new products and features and provided recommendations and directions for implementation
+•	Created technical documentation on all critical processes (Example: Standby log shipping, Security best practices, Performance tuning methodology, etc.)
+•	Set standards and guidelines for all database related implementations and enforce them to maintain consistency across environments 
+•	Tuned databases: Instance and SQL tuning
+•	Used Oracle tools i.e. RMAN, 10G Grid Control, Statspack/AWR, SQLTrace, as required 
+•	Implemented security policies i.e. password protection for listener, auditing user sessions and tables 
+•	Interfaced with vendors for technical support 
 
-### OmniTi Computer Consulting Inc, Columbia,MD  
+HRD Inc., Glenn Dale, MD 	01/06 – 05/06
+Database Administrator
 
-#### Sr. Database Architect - Mar 2007 to Present 
+•	Installed, created and applied patches for Oracle 10g, 9i and 8i on Unix and Windows OS 
+•	Migrated and upgraded the database from 8i to 9i and 9i to 10g, from Windows to Unix
+•	Cloned the database and refreshed the test databases using Export-Import, transportable tablespaces PL/SQL development: packages, stored procedures, functions, triggers
+•	Unix scripting for automating DBA activities
+•	Perl scripting for transaction monitor report application using Oracle 9iAS
+•	24x7 Production Support
+•	Planned and administered backup strategies
+•	Backups using RMAN and recovery of the tables, tablespaces or database as needed
+•	Created and managed tablespaces, rollback segments, redo log files, archived log files
+•	Managed users and roles, FGA (Fine Grained Auditing)
+•	Performance Tuning of the database using TKPROF, STATSPACK for optimum performance and to meet user requirements. 
+•	Assisted Developers in writing and tuning their queries.
+•	Tuned the database : Instance and SQL tuning
 
- * Oversee all aspects of database operations
- * Design and implement backup and failover strategies for all databases.
- * Responsible for customer communications for both technical and contractual matters
- * Monitor customer satisfaction and negotiate contract extensions/renewals with existing clients
- * Engage with technical groups and represent OmniTI at technical conferences
- * Install, upgrade and patch Oracle, PostgreSQL, MySQL and NoSQL databases on various environments and other supporting tools
- * Analyzes database usage patterns over time to determine causes for adverse performance as well as rectifies existing performance issues.
- * Understanding business-level data availability and safety requirements
- * Database performance tuning and general troubleshooting techniques on all database technology stacks
- * Database backup/retention strategy and formal disaster recovery plan with.various tools 
- * Setup High Availability, Partitioning and Security Solutions.
- * Used scripting language (Perl/Shell) to assist in automating the database administration and monitoring tasks
- * Setting technical and process related standards and documenting them to improve the team’s productivity
- * Use techniques to different database technologies to improve operation-wide methodologies for health assessment.
- * Perform general troubleshooting on all database related issues and document the solution steps
+Nirma University	07/04 – 12/04
+Assistant Lecturer
 
+•	Gave lectures on Database Management Systems and Advanced DBMS. 
+•	Offered Computer Networks Lab assistance.
+•	Contributed to developing Database management system for the University with Oracle 8i as back-end database.
+•	Took part in modeling, design and tuning aspects of the application.
 
-### Goldstone Technology, Vienna, VA 
-  Clients: (i) Vectren Energy, Evansville, IN
-           (ii) Mylan Pharmaceuticals, Morgantown, WV
+Projects	https://github.com/denishpatel
 
-#### Sr. Oracle DBA - Jun 2006 to Feb 2007 
+Education	MBA, 2010
+	Johns Hopkins University - Carey Business School
 
- * Design and Architect database solutions that are secure, highly available, scalable and efficient
- * Database Installation, creation and patch apply for Oracle® 10g,9i ,8i,7i on Unix (AIX, Sun Solaris), VMS and Windows OS
- * Conduct technical evaluations on new products and features and provide recommendations and directions for implementation
- * Create technical documentation on all critical processes (Example: Standby log shipping, Security best practices, Performance tuning methodology etc)
- * Set standards and guidelines for all database related implementations and enforce them to maintain consistency across environments
- * Tuning the databases: Instance and SQL tuning
- * Used Oracle tools i.e RMAN, 10G Grid Control, Statspack/AWR, SQLTrace as required
- * Implemented security policies i.e. password protection for listener, auditing user sessions and tables
- * Interface with vendors for technical support
+	Post Graduate Studies, System and Database Administration
+	Concordia College of Canada
 
+	Bachelors of Engineering, Information Technology, 2000 – 2004
+	Nirma Institute of Technology, Gujarat University
 
-### HRD Inc, Greenbelt,MD
-   Client: M-Care Medical Insurance (Div of Uni. of Michigan), Ann Arbor, MI
+Publications
 
-#### Oracle DBA - Nov 2005 to May 2006
+“Choosing The Right Database: Understanding Your Options”
+SD Times; November 21st, 2013
+(http://sdtimes.com/choosing-the-right-database-understanding-your-options/)
 
- * Installation and patch apply for Oracle® 10g,9i and 8i on Unix and Windows OS
- * Migrate and upgrade the database from 8i to 9i and 9i to 10g from Windows to Unix
- * Database cloning and Refresh the test databases using Export-Import, transportable tablespaces
- * PL/SQL development: packages, stored procedures, functions, triggers
- * Unix scripting for automate the DBA activities
- * Perl scripting for transaction monitor report application using Oracle 9iAS
- * 24*7 Production support and Planning & administering backup strategies
- * Backups using RMAN and recovery of the tables, tablespaces or database as needed
- * Create and manage tablespaces, rollback segments, redo log files, archived log files
- * Users and roles management, FGA (Fine Grained Auditing)
- * Performance Tuning of the database using TKPROF, STATSPACK for optimum performance and to meet user requirements. Assisting Developers in writing and tuning their queries.
- * Tuning the database : Instance and SQL tuning
- * Troubleshooting and day-to-day monitoring of the database and application
- * Job scheduler administration for Embarcadero Job scheduler , Oracle Jobs and cron jobs
- * Documentation of the responsibilities and error correction for future use
+Speaking Engagements
 
-###  Nirma University, Ahmedabad, India 
+“Achieving PCI Compliance with Postgres”
+PgConf.Russia 2015, Russian national PostgreSQL conference, Moscow, Russia; February, 2015
+(http://en.pgconf.ru/2015/paper/10)
 
-#### Jr. Database Analyst - Jun 2004 to Dec 2004
+“Out of the Box Replication in Postgres 9.4”
+PGCon 2015 - PostgreSQL Conference for Users and Developers, Ottawa, Canada, June, 2015
+(https://www.pgcon.org/2015/schedule/events/767.en.html)
 
- * Planned for and upgraded databases from Oracle® 7 to Oracle® 8
- * Setting up of production, development and test databases
- * Daily administration and monitoring of production database
- * Creating and managing users including tablespaces and data files
- * Data loading using SQL Loader into custom tables from external systems
- * Responsible for day-to-day administration of various Oracle® environments
- * Analyzing, designing and delivering, system integration (interface) solutions between Oracle® database and custom, 3rd party solutions
- * Analyzing, designing and delivering data conversion solutions from custom, 3rd party applications to Oracle® databases primarily using SQL*Loader and PL/SQL scripts
+“Postgres in Amazon RDS”
+Postgres Open 2014, Chicago, IL, September, 2014
+(https://postgresopen.org/events/schedule/pgopen2014/session/14-postgres-in-amazon-rds/)
+
+“Postgres in Amazon RDS”
+PGCon 2014 - PostgreSQL Conference for Users and Developers, Ottawa, Canada, May, 2014
+(http://www.pgcon.org/2014/schedule/events/640.en.html)
+
+“I Bet You Don't Need Big Data”
+NY Tech Summit, Verona, NY, July, 2014
+(http://www.nytechsummit.com/conference-agenda/courses/process-operational-optimization/i-bet-you-don-t-need-big-data/)
+
+“Mutually Assured Quality”
+2014 Evergreen International Conference, Boston, MA, March, 2014
+(2014 Evergreen International Conference)
+
+“Achieving PCI Compliance with Postgres”
+PG Conf NYC 2014, NY, NY
+(http://www.pgconf.us/2014/event/9/)
+
+“Scaling Postgres”
+PgOpen 2013, Chicago, IL, September, 2013 
+(http://postgresopen.org/2013/schedule/presentations/313/)
+
+“Deploying PostgreSQL on Amazon EC2: A Case Study”
+LOPSA-East 2013, New Brunswick, NJ, May, 2013 
+(http://lopsa-east.org/2013/talks/#t14)
+
+“Deploying PostgreSQL on Amazon EC2: A Case Study”
+PG Day New York, NY, NY
+
+“Deploying Maximum Architecture with PostgreSQL”
+Postgres Open 2012, Chicago, IL, September, 2012
+
+“Two Elephants in the Room!”
+HadoopDC Lightning Talk, Columbia, MD, August, 2012  
+(http://www.meetup.com/Hadoop-DC/events/76161052/)
