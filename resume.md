@@ -6,11 +6,13 @@ Sr. Database Engineer
  * 240-529-4312
  * Baltimore-DC Area
 
-Overview	Recognized as an SME, particularly in Big Data/Postgres; invited to speak at numerous conferences and summits. (see below) 
+Overview	
 
-Manage large databases in heterogeneous environment. 
-	- PostgreSQL, Oracle, MySQL, SQL Server
-	- NoSQL (MongoDB, Hadoop, Riak, Cassandra, …) 
+	Recognized as an SME, particularly in Big Data/Postgres; invited to speak at numerous conferences and summits. (see below) 
+
+	Manage large databases in heterogeneous environment. 
+		PostgreSQL, Oracle, MySQL, SQL Server
+		NoSQL (MongoDB, Hadoop, Riak, Cassandra, …) 
 
 Specialties: 
  
