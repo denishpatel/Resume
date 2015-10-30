@@ -1,9 +1,10 @@
 # Denish Patel 
 Sr. Database Engineer
 
- * <denish@omniti.com>
+ * <denish.j.patel@gmail.com>
  * http://www.pateldenish.com/
  * 240-529-4312
+ * Baltimore-DC Area
 
 Overview	Recognized as an SME, particularly in Big Data/Postgres; invited to speak at numerous conferences and summits. (see below) 
 
