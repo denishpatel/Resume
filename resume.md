@@ -48,7 +48,7 @@ Experience
 
 WithMe, Las Vegas, NV	09/15 - Present
 
-Principal Database Engineer
+	Principal Database Engineer
 
 	WithMe™ is a start-up that focuses on three primary solutions for commerce, including WithMe Business, Financial and Retail. 
 	Database Engineering 
@@ -59,7 +59,9 @@ Principal Database Engineer
 	DatabaseOps
 
 OmniTI, Fulton, MD	03/07 – 08/15
+
 	Lead Database Architect – January, 2012 – August, 2015
+	
 	Sr. Database Architect - March, 2007 – December, 2011
 
 	•	Provided Database Administration, management and support of SQL systems such as PostgreSQL, MySQL, Oracle and NoSQL Systems such as Riak, MongoDB, Hadoop. 
@@ -76,6 +78,7 @@ OmniTI, Fulton, MD	03/07 – 08/15
 	•	Managed off-shore Postgres, Oracle & MySQL instances.
 
 Goldstone Technologies, Ltd.	06/06 – 02/07
+
 	Sr. Database Administrator
 
 	•	Designed and architected database solutions that were secure, highly available, scalable and efficient 
@@ -89,6 +92,7 @@ Goldstone Technologies, Ltd.	06/06 – 02/07
 	•	Interfaced with vendors for technical support 
 
 HRD Inc., Glenn Dale, MD 	01/06 – 05/06
+
 	Database Administrator
 
 	•	Installed, created and applied patches for Oracle 10g, 9i and 8i on Unix and Windows OS 
@@ -106,6 +110,7 @@ HRD Inc., Glenn Dale, MD 	01/06 – 05/06
 	•	Tuned the database : Instance and SQL tuning
 
 Nirma University	07/04 – 12/04
+
 	Assistant Lecturer
 
 	•	Gave lectures on Database Management Systems and Advanced DBMS. 
@@ -129,54 +134,54 @@ Education:
 
 Publications
 
-“Choosing The Right Database: Understanding Your Options”
-SD Times; November 21st, 2013
-(http://sdtimes.com/choosing-the-right-database-understanding-your-options/)
+	“Choosing The Right Database: Understanding Your Options”
+	SD Times; November 21st, 2013
+	(http://sdtimes.com/choosing-the-right-database-understanding-your-options/)
 
 Speaking Engagements
 
-“Achieving PCI Compliance with Postgres”
-PgConf.Russia 2015, Russian national PostgreSQL conference, Moscow, Russia; February, 2015
-(http://en.pgconf.ru/2015/paper/10)
+	“Achieving PCI Compliance with Postgres”
+	PgConf.Russia 2015, Russian national PostgreSQL conference, Moscow, Russia; February, 2015
+	(http://en.pgconf.ru/2015/paper/10)
 
-“Out of the Box Replication in Postgres 9.4”
-PGCon 2015 - PostgreSQL Conference for Users and Developers, Ottawa, Canada, June, 2015
-(https://www.pgcon.org/2015/schedule/events/767.en.html)
+	“Out of the Box Replication in Postgres 9.4”
+	PGCon 2015 - PostgreSQL Conference for Users and Developers, Ottawa, Canada, June, 2015
+	(https://www.pgcon.org/2015/schedule/events/767.en.html)
 
-“Postgres in Amazon RDS”
-Postgres Open 2014, Chicago, IL, September, 2014
-(https://postgresopen.org/events/schedule/pgopen2014/session/14-postgres-in-amazon-rds/)
+	“Postgres in Amazon RDS”
+	Postgres Open 2014, Chicago, IL, September, 2014
+	(https://postgresopen.org/events/schedule/pgopen2014/session/14-postgres-in-amazon-rds/)
 
-“Postgres in Amazon RDS”
-PGCon 2014 - PostgreSQL Conference for Users and Developers, Ottawa, Canada, May, 2014
-(http://www.pgcon.org/2014/schedule/events/640.en.html)
+	“Postgres in Amazon RDS”
+	PGCon 2014 - PostgreSQL Conference for Users and Developers, Ottawa, Canada, May, 2014
+	(http://www.pgcon.org/2014/schedule/events/640.en.html)
 
-“I Bet You Don't Need Big Data”
-NY Tech Summit, Verona, NY, July, 2014
-(http://www.nytechsummit.com/conference-agenda/courses/process-operational-optimization/i-bet-you-don-t-need-big-data/)
+	“I Bet You Don't Need Big Data”
+	NY Tech Summit, Verona, NY, July, 2014
+	(http://www.nytechsummit.com/conference-agenda/courses/process-operational-optimization/i-bet-you-don-t-need-big-data/)
 
-“Mutually Assured Quality”
-2014 Evergreen International Conference, Boston, MA, March, 2014
-(2014 Evergreen International Conference)
+	“Mutually Assured Quality”
+	2014 Evergreen International Conference, Boston, MA, March, 2014
+	(2014 Evergreen International Conference)
 
-“Achieving PCI Compliance with Postgres”
-PG Conf NYC 2014, NY, NY
-(http://www.pgconf.us/2014/event/9/)
+	“Achieving PCI Compliance with Postgres”
+	PG Conf NYC 2014, NY, NY
+	(http://www.pgconf.us/2014/event/9/)
 
-“Scaling Postgres”
-PgOpen 2013, Chicago, IL, September, 2013 
-(http://postgresopen.org/2013/schedule/presentations/313/)
+	“Scaling Postgres”
+	PgOpen 2013, Chicago, IL, September, 2013 
+	(http://postgresopen.org/2013/schedule/presentations/313/)
 
-“Deploying PostgreSQL on Amazon EC2: A Case Study”
-LOPSA-East 2013, New Brunswick, NJ, May, 2013 
-(http://lopsa-east.org/2013/talks/#t14)
+	“Deploying PostgreSQL on Amazon EC2: A Case Study”
+	LOPSA-East 2013, New Brunswick, NJ, May, 2013 
+	(http://lopsa-east.org/2013/talks/#t14)
 
-“Deploying PostgreSQL on Amazon EC2: A Case Study”
-PG Day New York, NY, NY
+	“Deploying PostgreSQL on Amazon EC2: A Case Study”
+	PG Day New York, NY, NY
 
-“Deploying Maximum Architecture with PostgreSQL”
-Postgres Open 2012, Chicago, IL, September, 2012
+	“Deploying Maximum Architecture with PostgreSQL”
+	Postgres Open 2012, Chicago, IL, September, 2012
 
-“Two Elephants in the Room!”
-HadoopDC Lightning Talk, Columbia, MD, August, 2012  
-(http://www.meetup.com/Hadoop-DC/events/76161052/)
+	“Two Elephants in the Room!”
+	HadoopDC Lightning Talk, Columbia, MD, August, 2012  
+	(http://www.meetup.com/Hadoop-DC/events/76161052/)
