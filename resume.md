@@ -20,7 +20,7 @@ Specialties:
 	•	Managing teams in support of Heterogeneous Architecture
 	•	Performance Monitoring and Tuning
 	•	Proactive System Monitoring and Maintenance
-	•	Big Data
+	•	Big Data Analytics
 	•	Backup and Recovery
 	•	Security
 	•	High Availability & Failover 
