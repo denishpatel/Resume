@@ -49,7 +49,15 @@ Skills & Expertise
 
 Experience
 
-WithMe, Las Vegas, NV	09/15 - Present
+Medallia, Palo Alto, CA 12/15 - Present
+
+	Sr. Database Architect
+
+	Medallia, a leading customer experience management (CEM) SaaS company ,is a Sequoia-backed company with 98% customer retention and referencabilty. It's leading SaaS Customer Experience Management offering enables our customers to achieve measurable business value as measured by increased customer loyalty, retention, and revenue.
+       SAAS Operations 
+       Database Engineering and Architecture
+
+WithMe, Las Vegas, NV	09/15 - 12/15 
 
 	Principal Database Engineer
 
