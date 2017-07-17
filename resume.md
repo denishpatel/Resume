@@ -1,5 +1,5 @@
 # Denish Patel 
-Sr. Database Engineer
+Database and DevOps Engineering Manager
 
  * <denish.j.patel@gmail.com>
  * http://www.pateldenish.com/
