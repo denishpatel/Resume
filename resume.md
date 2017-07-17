@@ -49,7 +49,13 @@ Skills & Expertise
 
 Experience
 
-Medallia, Palo Alto, CA 12/15 - Present
+University of Maryland Medical Systems, 04/17- Present
+  
+  	Dababase/DevOps Engineer
+	
+	Building Big Data systems; Postgres, Hadoop, Tableau
+	
+Medallia, Palo Alto, CA 12/15 - 03/17
 
 	Sr. Database Architect
 
